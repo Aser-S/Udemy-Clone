@@ -35,7 +35,3 @@ A modern, responsive clone of the Udemy learning platform built with React and C
 - Design inspired by [Udemy](https://www.udemy.com)
 - Icons from [Font Awesome](https://fontawesome.com)
 - Course data and images are for educational purposes only
-
-## Contact
-
-Your Name - [@yo
