@@ -1,16 +1,41 @@
-# React + Vite
+# Udemy Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive clone of the Udemy learning platform built with React and CSS. This project replicates the core UI/UX features of Udemy's homepage, including course browsing, skill exploration, and interactive carousels.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🎯 Core Functionality
+- **Dynamic Course Catalog**: Browse courses across multiple skill categories (AI, Python, Excel, Digital Marketing, AWS)
+- **Interactive Skill Carousel**: Explore popular skills with participant counts and background imagery
+- **Course Filtering**: Select skills to view relevant courses with smooth transitions
+- **Responsive Navigation**: Scroll through courses with arrow-based pagination (4 courses per view)
+- **Hover Previews**: Detailed course information appears on hover with ratings, pricing, and call-to-action
 
-## React Compiler
+### 🎨 UI Components
+- **Navigation Bar**: Search functionality, category links, shopping cart, and authentication buttons
+- **Promotional Banner**: Dynamic sale announcements with dismissible ad popup
+- **Partners Section**: Showcase of trusted companies and learners worldwide
+- **Personal Plan CTA**: Featured section highlighting AI learning and certification preparation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 💡 Interactive Elements
+- Carousel navigation with dot indicators
+- Smart popup positioning (left/right based on card position)
+- Skill category tabs with active state highlighting
+- Hover effects and smooth transitions throughout
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**: React 18+ with Hooks (useState)
+- **Styling**: Custom CSS with Flexbox/Grid layouts
+- **Icons**: Font Awesome
+- **UI Components**: Lucide React (Sparkles icon)
+
+## Acknowledgments
+
+- Design inspired by [Udemy](https://www.udemy.com)
+- Icons from [Font Awesome](https://fontawesome.com)
+- Course data and images are for educational purposes only
+
+## Contact
+
+Your Name - [@yo
